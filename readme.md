@@ -6,7 +6,7 @@
 
 ## Reference Documentation
 
-The reference documentation is available at https://maif.github.io/your-project/documentation/
+The reference documentation is available at [https://maif.github.io/your-project/documentation/](https://maif.github.io/project-template/documentation/)
 
 ## Community
 You can join these groups and chats to discuss and ask your-project related questions:
