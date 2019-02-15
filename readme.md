@@ -1,4 +1,4 @@
-:warning: **This is a template projet to open source your code, more detail [here](https://github.com/MAIF/project-template/wiki/Open-sourcing-your-project)** :warning: 
+:warning: **This is a template projet to open source your code, more details [here](https://github.com/MAIF/project-template/wiki/Open-sourcing-your-project)** :warning: 
 
 # Your project
 
