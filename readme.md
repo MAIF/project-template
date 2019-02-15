@@ -1,3 +1,5 @@
+:warning: **This is a template projet to open source your code, more detail [here](https://github.com/MAIF/project-template/wiki/Open-sourcing-your-project)** :warning: 
+
 # Your project
 
 [![Build Status](https://travis-ci.org/MAIF/your-project.svg?branch=master)](https://travis-ci.org/MAIF/your-project) [![Join the chat at https://gitter.im/MAIF/your-project](https://badges.gitter.im/MAIF/your-project.svg)](https://gitter.im/MAIF/your-project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [ ![Download](https://img.shields.io/github/release/MAIF/your-project.svg) ](https://dl.bintray.com/maif/binaries/your-project.jar/1.0.0/your-project.jar)
